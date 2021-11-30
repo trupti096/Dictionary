@@ -6,3 +6,5 @@ while i<len(list1):
     dict[list1[i]]=(list2[i])
     i=i+1
 print(dict)
+
+#{1:6,2:7,3:8,4:9,5:10}
