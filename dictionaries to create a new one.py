@@ -10,3 +10,5 @@ for i,j in dic1.items():
             if i==m:
                 dic[i]==j+m
 print(dic)
+
+#{1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
