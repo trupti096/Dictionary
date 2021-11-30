@@ -9,3 +9,5 @@ for i in dict.values():
     sum=sum+i
     a[i]=sum
 print(sum)
+
+#1500
