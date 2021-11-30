@@ -4,3 +4,5 @@ x=0
 for i in list.values():
     x=x*i
 print(x)
+
+#0
