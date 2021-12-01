@@ -7,4 +7,4 @@ while i<len(list1):
     i=i+1      
 print(dict)
 
-#{“one”:1,”two”:2,”three”:3,”four”:4,”five”:5}
+#{'one':1,'two':2,'three':3,'four':4,'five':5}
