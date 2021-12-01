@@ -16,3 +16,5 @@ while i<len(a):
         s[a[i]]=d
     i=i+1
 print(s)
+
+##{'M':1,'I':4,'S':4,'P':2}
