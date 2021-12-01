@@ -3,3 +3,5 @@ dict={}
 for i in x.keys():
     dict[i]=[]  
 print(dict)
+
+#{'C1': [], 'C2': [], 'C3': []}
