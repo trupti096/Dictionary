@@ -14,3 +14,5 @@ for i in dic2:
                     if i==m:
                         dic4[i]==j+m
 print(dic4)
+
+#{1: 10, 2: 60, 3: 30, 5: 50, 6: 60}
