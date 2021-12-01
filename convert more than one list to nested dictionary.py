@@ -9,3 +9,5 @@ while i<len(a):
     i=i+1
 list.append(dict)
 print(list)
+
+#[{'S001': {'Adina Park': 85}}, {'S002': {'Leyton Marsh': 98}}, {'S003': {'Duncan Boyle': 89}}, {'S004': {'Saim Richards': 92}}]
