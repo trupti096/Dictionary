@@ -7,3 +7,5 @@ sum=0
 for i in my_dict.values():
     sum=sum+i
 print(sum)
+
+#293
