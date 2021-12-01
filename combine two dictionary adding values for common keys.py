@@ -9,3 +9,5 @@ else:
     dic[x]=d1[x]
     dic[y]=d2[y]
 print(dic)
+
+#{'a': 400, 'b': 400, 'd': 400, 'c': 300}
