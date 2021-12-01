@@ -6,3 +6,5 @@ dic={
     "bat":3
 }
 print(dic)
+
+#{'ball':'green','bat':3,'wickets':8}
